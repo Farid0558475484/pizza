@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{149FC9D7-9DC0-4A2C-9328-8E52D2761796}|Default">
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Program.cs">
+    <Files>
+      <File FileName="Test/Files/Users.json" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Test/Program.cs" Line="67" Column="6" />
+      <File FileName="Test/Admin.cs" Line="15" Column="22" />
+      <File FileName="Test/Models/User.cs" Line="17" Column="10" />
+      <File FileName="Test/Models/Pizza.cs" Line="1" Column="1" />
+      <File FileName="Test/Files/Product.json" Line="1" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test" expanded="True">
+            <Node name="Test" expanded="True">
+              <Node name="Files" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

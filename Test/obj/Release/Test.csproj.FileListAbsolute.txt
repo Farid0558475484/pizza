@@ -1,0 +1,7 @@
+/Users/xamyak/Desktop/Test/Test/bin/Release/Files/Users.json
+/Users/xamyak/Desktop/Test/Test/bin/Release/Test.exe
+/Users/xamyak/Desktop/Test/Test/bin/Release/Newtonsoft.Json.dll
+/Users/xamyak/Desktop/Test/Test/bin/Release/Newtonsoft.Json.xml
+/Users/xamyak/Desktop/Test/Test/obj/Release/Test.csproj.CoreCompileInputs.cache
+/Users/xamyak/Desktop/Test/Test/obj/Release/Test.csproj.CopyComplete
+/Users/xamyak/Desktop/Test/Test/obj/Release/Test.exe

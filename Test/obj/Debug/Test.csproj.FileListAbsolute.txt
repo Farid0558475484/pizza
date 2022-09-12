@@ -1,0 +1,10 @@
+/Users/xamyak/Desktop/Test/Test/obj/Debug/Test.csproj.AssemblyReference.cache
+/Users/xamyak/Desktop/Test/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/xamyak/Desktop/Test/Test/bin/Debug/Test.exe
+/Users/xamyak/Desktop/Test/Test/bin/Debug/Test.pdb
+/Users/xamyak/Desktop/Test/Test/bin/Debug/Newtonsoft.Json.dll
+/Users/xamyak/Desktop/Test/Test/bin/Debug/Newtonsoft.Json.xml
+/Users/xamyak/Desktop/Test/Test/obj/Debug/Test.csproj.CopyComplete
+/Users/xamyak/Desktop/Test/Test/obj/Debug/Test.exe
+/Users/xamyak/Desktop/Test/Test/obj/Debug/Test.pdb
+/Users/xamyak/Desktop/Test/Test/bin/Debug/Files/Users.json
